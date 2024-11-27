@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 28 Nov 2024 01:27:57 at https://magic.hocoos.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://magic.hocoos.com/ -O1 "C:\Users\Administrator\Desktop\44" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:27:57	Warning: 	Cache: damaged cache, trying to repair
+01:27:57	Warning: 	Cache: 0 bytes successfully recovered in 0 entries
+01:27:57	Warning: 	Cache: error trying to open the cache
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 seconds : 8 links scanned, 7 files written (22233357 bytes overall) [3977335 bytes received at 994333 bytes/sec], 22169094 bytes transferred using HTTP compression in 7 files, ratio 17%, 2.0 requests per connection
+(No errors, 3 warnings, 0 messages)
